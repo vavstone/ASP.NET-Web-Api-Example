@@ -1,0 +1,10 @@
+C:\work\test_projects\ApiControllers\ApiControllers\bin\Debug\netcoreapp2.0\ApiControllers.deps.json
+C:\work\test_projects\ApiControllers\ApiControllers\bin\Debug\netcoreapp2.0\ApiControllers.runtimeconfig.json
+C:\work\test_projects\ApiControllers\ApiControllers\bin\Debug\netcoreapp2.0\ApiControllers.runtimeconfig.dev.json
+C:\work\test_projects\ApiControllers\ApiControllers\bin\Debug\netcoreapp2.0\ApiControllers.dll
+C:\work\test_projects\ApiControllers\ApiControllers\bin\Debug\netcoreapp2.0\ApiControllers.pdb
+C:\work\test_projects\ApiControllers\ApiControllers\obj\Debug\netcoreapp2.0\ApiControllers.csproj.CoreCompileInputs.cache
+C:\work\test_projects\ApiControllers\ApiControllers\obj\Debug\netcoreapp2.0\ApiControllers.AssemblyInfoInputs.cache
+C:\work\test_projects\ApiControllers\ApiControllers\obj\Debug\netcoreapp2.0\ApiControllers.AssemblyInfo.cs
+C:\work\test_projects\ApiControllers\ApiControllers\obj\Debug\netcoreapp2.0\ApiControllers.dll
+C:\work\test_projects\ApiControllers\ApiControllers\obj\Debug\netcoreapp2.0\ApiControllers.pdb
